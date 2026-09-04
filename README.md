@@ -91,19 +91,19 @@ Whether you're maintaining a personal task list or managing multiple project act
 
 ### 🔐 Login Screen
 
-<img src="sc/Login.png" alt="Techcps-Task-Manager Login Screen" width="700"/>
+<img src="sc-png/Login.png" alt="Techcps-Task-Manager Login Screen" width="700"/>
 
 <br><br>
 
 ### 📊 Dashboard
 
-<img src="sc/Dashboard.png" alt="Techcps-Task-Manager Dashboard" width="700"/>
+<img src="sc-png/Dashboard.png" alt="Techcps-Task-Manager Dashboard" width="700"/>
 
 <br><br>
 
 ### 📁 Projects
 
-<img src="sc/AllProjects.png" alt="Techcps-Task-Manager Projects" width="700"/>
+<img src="sc-png/AllProjects.png" alt="Techcps-Task-Manager Projects" width="700"/>
 
 </div>
 
